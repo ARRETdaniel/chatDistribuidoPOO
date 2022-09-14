@@ -19,7 +19,7 @@ Redis Applicable to Ruby
  <https://www.section.io/engineering-education/how-to-setup-user-authentication-from-scratch-with-rails-6/>
 
 
-### Readed
+### Read
 <https://medium.com/launch-school/the-basics-of-oop-ruby-26eaa97d2e98>
 
 #### extra
